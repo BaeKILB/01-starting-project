@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "lodash": "https://esm.sh/lodash@4.17.21",
+    "react": "npm:react@^18.2.0",
+    "react-router-dom": "npm:react-router-dom@^6.4",
+
+    "react-dom/client": "npm:react-dom@^18.2.0/client"
+  }
+}

@@ -1,23 +1,23 @@
 {
-  "hash": "cb9f7153",
-  "browserHash": "d4808133",
+  "hash": "1eb8f183",
+  "browserHash": "def94e29",
   "optimized": {
     "react": {
       "src": "../../node_modules/.deno/react@18.2.0/node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "40734b0b",
+      "fileHash": "9772bf37",
       "needsInterop": true
     },
     "react/jsx-dev-runtime": {
       "src": "../../node_modules/.deno/react@18.2.0/node_modules/react/jsx-dev-runtime.js",
       "file": "react_jsx-dev-runtime.js",
-      "fileHash": "c8aa85d7",
+      "fileHash": "19ba932b",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/.deno/react-dom@18.2.0/node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "201ed4db",
+      "fileHash": "127d7ba7",
       "needsInterop": true
     }
   },
